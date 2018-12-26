@@ -1,0 +1,26 @@
+body {
+    background: black;
+}
+
+p.FrontPage {
+    color: white;
+    font-family: Broadway;
+    font-size: 50px;
+}
+ul.TaskBar li {
+    display: inline;
+    padding-left: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+li.about {
+    margin-left: 300px;
+}
+img{
+    margin-left: 20px;
+}
+.skills {
+    font-size: 23px;
+    color: white;
+}

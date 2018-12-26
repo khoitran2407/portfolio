@@ -1,0 +1,45 @@
+body {
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p.FrontPage {
+    font-family: Broadway;
+    color: black;
+    font-size: 50px;
+}
+
+li.about {
+    margin-left: 300px;
+}
+ul.TaskBar li {
+    display: inline;
+    padding-left: 100px;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+p.Tervetuloa{
+    font-family: Algerian;
+    font-size: 100px;
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    margin-left: 500px;
+    color: blueviolet
+}
+
+#demo {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 30px;
+    color: brown
+}

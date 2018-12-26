@@ -1,0 +1,30 @@
+body {
+    background: black;
+}
+body.backround {
+    opacity: 0.5;
+}
+p.personalinfo {
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+p.FrontPage {
+    color: white;
+    font-family: Broadway;
+    font-size: 50px;
+}
+ul.TaskBar li {
+    display: inline;
+    padding-left: 100px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+li.about {
+    margin-left: 300px;
+}
+img{
+    margin-left: 20px;
+}
